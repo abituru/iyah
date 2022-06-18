@@ -3,8 +3,8 @@ const chalk = require("chalk")
 
 // Other
 global.thum = "https://telegra.ph/file/7188012d573871aaf4fa0.jpg"
-global.log0 = fs.readFileSync("./media/fenzo.jpg")
-global.thumb = fs.readFileSync("./media/fenzo.jpg")
+global.log0 = fs.readFileSync("./media/20220619_003346.jpg")
+global.thumb = fs.readFileSync("./media/20220619_003346.jpg")
 global.err4r = "https://telegra.ph/file/7188012d573871aaf4fa0.jpg"
 global.owner = ['994408105125']
 global.lolhuman = "RelzzAPIs"
@@ -17,7 +17,7 @@ global.packname = "© Abi Official"
 global.packname2 = "LordAbii😎"
 global.author = "AbiiDev"
 global.sessionName = "session"
-global.namebot = "Kagura Botz"
+global.namebot = "Abii Botz"
 global.linkgrupss = "https://chat.whatsapp.com/ERrRJ18SMI20NZbYvq7E3w"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
